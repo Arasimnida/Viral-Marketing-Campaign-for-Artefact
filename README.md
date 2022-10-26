@@ -6,12 +6,12 @@ As part of the IE "Viral Marketing", we worked on marketing campaign's strategie
 
 ## Members of Group A
 
+ - Samuel Cordon
  - Paul Capgras
  - Basile Heurtault
  - Oumaima Chater
  - Noé Bosc-Haddad
  - Oussama Saadi
- - Samuel Cordon
 
 ## Installation 
 
